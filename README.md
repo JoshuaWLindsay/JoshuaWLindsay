@@ -1,9 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Launch School and Codecademy!
-- 🌱 I’m currently learning JavaScript / FullStack.
-- 👯 I’m looking to collaborate on Launch School.
-- 🤔 I’m looking for help with Object Oriented Programming.
-- 💬 Ask me about tastings.
-- 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: Changing careers from Secondary Math Teaching to Software Engineering.
+I am a full-stack software engineer specializing in JavaScript and proficient in TypeScript, Go, and AWS. I co-created Mayfly, an open-source tool for deploying user session backends. I enjoyed teaching secondary math to at-risk students, training and managing employees, and fostering children with my wife.
