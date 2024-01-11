@@ -4,4 +4,4 @@ I am a Full-Stack Software Engineer specializing in JavaScript, am proficient in
 
 From training and managing employees, teaching math to at-risk students, and fostering children, I love solving problems with and for people.
 
-I co-created Mayfly, an open-source tool for deploying dedicated user sessions to the browser.
+I co-created Mayfly, an open-source tool for hosting dedicated user sessions in the browser.
